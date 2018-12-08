@@ -1,10 +1,22 @@
 Tudo Começa Aqui
 
-Meus repositórios se dividem em públicos e privados. 
+Os repositórios aqui armazenados estão organizados entre públicos e privados. 
 
 Nos públicos eu compartilho fontes de projetos simples, melhores práticas e dicas para toda a comunidade digital.
-Nos privados, estão os códigos-fonte dos projetos que desenvolvo profissionalmente, bem como algumas experiências ainda não concluídas. Para ter acesso, entre em contato comigo aqui por esse repositório mesmo, relatando um problema (New Issue).
+Nos públicos, constarão amostras de código-fonte, textos referentes a projetos e pesquisas. 
 
-Por hora, meus projetos estão escritos numa combinação de PHP + JQuery. Em breve, começarei a divulgar algumas experiências em Java, Angular, etc. Mobile Development também vai aparecer. Aguarde.
+Nos repositórios privados, estarão os projetos na íntegra, porém seu acesso será controlado, de acordo com a apreciação das solicitações feitas.
+
+Meus projetos na área de computação se referem a aplicações web (PHP + JQuery), aplicativos móveis (Cordova/Phonegap) e automação (Arduíno). 
+
+Em cada pasta deste respositório, você encontrará um conjunto de instruções, caso se interesse em conhecer melhor e colaborar com os projetos. As pastas são:
+
+1. Ferramentas: descrição dos softwares de apoio que utilizo.
+2. Arquitetura: padrão de organização do código fonte dos projetos.
+3. Framework: base sobre a qual os projetos são construídos.
+
+Instruções mais detalhadas podem ser encontradas nos treinamentos disponíveis no meu site pessoal.
+
+Enjoy it!
 
 Geziel Carvalho.
