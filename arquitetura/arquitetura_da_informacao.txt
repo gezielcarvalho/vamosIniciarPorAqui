@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Process_architecture
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
