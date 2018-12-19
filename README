@@ -3,7 +3,6 @@ Tudo Começa Aqui
 Os repositórios aqui armazenados estão organizados entre públicos e privados. 
 
 Nos públicos eu compartilho fontes de projetos simples, melhores práticas e dicas para toda a comunidade digital.
-Nos públicos, constarão amostras de código-fonte, textos referentes a projetos e pesquisas. 
 
 Nos repositórios privados, estarão os projetos na íntegra, porém seu acesso será controlado, de acordo com a apreciação das solicitações feitas.
 
@@ -12,9 +11,9 @@ Meus projetos na área de computação se referem a aplicações web (PHP + JQue
 Em cada pasta deste respositório, você encontrará um conjunto de instruções, caso se interesse em conhecer melhor e colaborar com os projetos. As pastas são:
 
 1. Ferramentas: softwares de apoio que utilizo;
-2. Arquitetura: padrão de organização do código fonte dos projetos;
-3. Framework: base sobre a qual os projetos são construídos; e
-4. Linguagens: programação utilizada de acordo com a finalidade.
+2. Linguagens: programação utilizada de acordo com a finalidade.
+3. Frameworks: bases sobre as quais os projetos são construídos; e
+4. Arquitetura: padrão de organização do código fonte dos projetos;
 
 Instruções mais detalhadas podem ser encontradas nos treinamentos disponíveis no meu site pessoal.
 
