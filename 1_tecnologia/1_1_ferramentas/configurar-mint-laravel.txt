@@ -19,6 +19,4 @@ https://code.visualstudio.com/docs/setup/linux#_visual-studio-code-is-unable-to-
 sudo xed /etc/sysctl.conf
 fs.inotify.max_user_watches=524288
 
-https://tecadmin.net/clear-cache-laravel-5/
-
 https://linuxize.com/post/how-to-configure-git-username-and-email/
