@@ -3,12 +3,15 @@ https://tecadmin.net/install-php-7-on-ubuntu/
 sudo apt-get install mysql-server
 sudo apt-get install php-mysql
 
+sudo apt-get install openssl php-{mbstring,common,json,bcmath,tokenizer,mysql,xml,zip}
+
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-18-04
 
 sudo chmod 777 .composer/
-
+xed ~/.bashrc
 https://stackoverflow.com/questions/26376516/
 export PATH="~/.composer/vendor/bin:$PATH"
+
 alias laravel='~/.composer/vendor/bin/laravel'
 source .bashrc
 
