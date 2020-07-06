@@ -30,3 +30,6 @@ php artisan serve
 
 # em caso de problemas de cache, seguir o link abaixo
 https://tecadmin.net/clear-cache-laravel-5/
+
+# pra rodar um Seeder recém criado, ou que não existia na branch anterior, 
+composer dump-autoload
