@@ -1,1 +1,0 @@
-jQuery: Just the basics. Michael J. Young.
